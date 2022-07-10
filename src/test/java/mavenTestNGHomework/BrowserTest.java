@@ -17,7 +17,7 @@ public class BrowserTest {
 
     ChromeDriver driver;
 
-    private final String YOUTUBE_URL = "https://youtube.com/";
+    private final String YOUTUBE_URL = "https://www.youtube.com/";
 
     @BeforeTest
     public void setProperties() {
